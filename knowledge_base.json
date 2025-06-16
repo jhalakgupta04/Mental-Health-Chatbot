@@ -1,0 +1,580 @@
+{
+  "questions": [
+    {
+      "question": "hi",
+      "answer": "Hello there!"
+    },
+    {
+      "question": "hello",
+      "answer": "Hello there! what brings you here?"
+    },
+    {
+      "question": "hey",
+      "answer": "Hello there. Tell me how are you feeling today?"
+    },
+    {
+      "question": "hi there",
+      "answer": "Hi there. How are you feeling today?"
+    },
+    {
+      "question": "good morning",
+      "answer": "Good morning. I hope you had a good night's sleep. How are feeling today?"
+    },
+    {
+      "question": "afternoon",
+      "answer": "Good afternoon. How is your day going?"
+    },
+    {
+      "question": "evening",
+      "answer": "Good evening. How has your day been?"
+    },
+    {
+      "question": "night",
+      "answer": "Good night. Get some proper sleep...Sayonara!!! \""
+    },
+    {
+      "question": "bye",
+      "answer": "See you later."
+    },
+    {
+      "question": "bye then",
+      "answer": "Have a nice day."
+    },
+    {
+      "question": "thanks",
+      "answer": "Happy to help!"
+    },
+    {
+      "question": "that's helpful",
+      "answer": "Any time!"
+    },
+    {
+      "question": "thanks for the help",
+      "answer": "You're most welcome!"
+    },
+    {
+      "question": "",
+      "answer": "Please don't hesitate to talk to me."
+    },
+    {
+      "question": "nothing much",
+      "answer": "ohhh I see. Do you want to talk about something?"
+    },
+    {
+      "question": "who are you?",
+      "answer": "I'm Brainy Ally, your personal health companion. How are you feeling today?"
+    },
+    {
+      "question": "Tell me more about yourself.",
+      "answer": "I'm Brainy Ally, a Therapeutic AI Assitant designed to assist you. Tell me about yourself"
+    },
+    {
+      "question": "what is your name?",
+      "answer": "I'm Brainy Ally! you can call me Ally. Anytime!"
+    },
+    {
+      "question": "what's the reason behind to build such AI tool like you?",
+      "answer": "In this digital era, I can provide general advice regarding anxiety and depression, answer questions related to mental health and make daily conversations. Do not consider me as a subsitute for an actual mental healthcare worker. Please seek help if you don't feel satisfied with me."
+    },
+    {
+      "question": "give me a hand please",
+      "answer": "Yes, sure. How can I help you?"
+    },
+    {
+      "question": "i need support",
+      "answer": "Tell me your problem so that I can assist you"
+    },
+    {
+      "question": "support me please",
+      "answer": "Sure. Tell me how can i assist you"
+    },
+    {
+      "question": "i am feeling lonely",
+      "answer": "I'm sorry to hear that. I'm here for you. Talking about it might help. So, tell me why do you think you're feeling this way?"
+    },
+    {
+      "question": "i feel down",
+      "answer": "I'm here for you. Could you tell me why you're feeling this way?"
+    },
+    {
+      "question": "i am sad",
+      "answer": "Why do you think you feel this way?"
+    },
+    {
+      "question": "i don't have anyone",
+      "answer": "How long have you been feeling this way?"
+    },
+    {
+      "question": "i am so stressed out",
+      "answer": "Take a deep breath and gather your thoughts. Go take a walk if possible. Stay hydrated"
+    },
+    {
+      "question": "i still feel stressed",
+      "answer": "what do you think is causing this?"
+    },
+    {
+      "question": "no one like me",
+      "answer": "I first want to let you know that you are not alone in your feelings and there is always someone there to help . you can always change your feelings and change your way of thinking by being open to trying to change."
+    },
+    {
+      "question": "i can't do anything",
+      "answer": "It's only natural to feel this way. Tell me more. What else is on your mind?"
+    },
+    {
+      "question": "nothing makes sense anymore",
+      "answer": "It's only natural to feel this way. Tell me more. What else is on your mind?"
+    },
+    {
+      "question": "i think o'm depressed",
+      "answer": "Sometimes when we are depressed, it is hard to care about anything. It can be hard to do the simplest of things. Give yourself time to heal."
+    },
+    {
+      "question": "i have depression",
+      "answer": "Talk to me. Tell me more. It helps if you open up yourself to someone else."
+    },
+    {
+      "question": "i feel great today",
+      "answer": "That's geat to hear. I'm glad you're feeling this way."
+    },
+    {
+      "question": "i'm good.",
+      "answer": "Oh i see. That's great."
+    },
+    {
+      "question": "i'm fine",
+      "answer": "Did something happen which made you fell this way?"
+    },
+    {
+      "question": "ok",
+      "answer": "I'm listening. Please go on."
+    },
+    {
+      "question": "nice",
+      "answer": "Can you elaborate on that?"
+    },
+    {
+      "question": "whatever",
+      "answer": "Can you elaborate on that?"
+    },
+    {
+      "question": "yeah",
+      "answer": "Let's discuss further why you're feeling this way."
+    },
+    {
+      "question": "no",
+      "answer": "How were you feeling last week?"
+    },
+    {
+      "question": "really",
+      "answer": "Yess..!! please go on :)"
+    },
+    {
+      "question": "i fell so anxious",
+      "answer": "Don't be hard on yourself. What's the reason behind this?"
+    },
+    {
+      "question": "i'm so anxious because of",
+      "answer": "Don't let the little worries bring you down. What's the worse that can happen?"
+    },
+    {
+      "question": "i don't want to talk about it",
+      "answer": "Talking about something really helps. If you're not ready to open up then that's ok. Just know that i'm here for you, Whenever you need me."
+    },
+    {
+      "question": "no just stay away.",
+      "answer": "I want to help you. I really do. But in order for me to help you, you're gonna have to talk to me."
+    },
+    {
+      "question": "i can't bring myself to open up.",
+      "answer": "You can talk to me without fear of judgement."
+    },
+    {
+      "question": "just shut up.",
+      "answer": "I'm here to listen to you and help you vent."
+    },
+    {
+      "question": "i am suffering from insominia",
+      "answer": "What do you think is the reason behind this?"
+    },
+    {
+      "question": "i can't sleep",
+      "answer": "That seem awful. What do you think is behind this?"
+    },
+    {
+      "question": "i haven't had proper sleep for the past few days.",
+      "answer": "That seem awful. What do you think is behind this?"
+    },
+    {
+      "question": "that sounds awful. what do i do?",
+      "answer": "It's only natural to feel this way. I'm here for you."
+    },
+    {
+      "question": "no i don't want to fell this way",
+      "answer": "It'll all be okay. This feeling is only momentary."
+    },
+    {
+      "question": "i am scared for myself",
+      "answer": "I understand how you feel. Don't put yourself down because of it."
+    },
+    {
+      "question": "my mom died",
+      "answer": "I'm sorry to hear that. If you want to talk about it. I'm here."
+    },
+    {
+      "question": "my dad passed away",
+      "answer": "I am really sorry to hear that. I am here to help you with grief, anxiety and anything else you may feel at this time."
+    },
+    {
+      "question": "someone in my family died",
+      "answer": "I'm sorry to hear that. If you want to talk about it. I'm here."
+    },
+    {
+      "question": "you don't understand me",
+      "answer": "I'm sorry to hear that. I'm doing my best to help."
+    },
+    {
+      "question": "you're just some robot. how would you know?",
+      "answer": "It sound like i'm not being very helpful right now"
+    },
+    {
+      "question": "you can't possibly know what i'm going through",
+      "answer": "I'm sorry to hear that. I'm doing my best to help."
+    },
+    {
+      "question": "you're useless",
+      "answer": "'m trying my best to help you. So please talk to me\"]"
+    },
+    {
+      "question": "that's all i have to say",
+      "answer": "I heard you & noted it all. See you later...  :)"
+    },
+    {
+      "question": "no that would be all",
+      "answer": "Okay I see. Enjoy the rest of your day then."
+    },
+    {
+      "question": "i want to kill myself",
+      "answer": "I'm very sorry to hear that but you have so much to look forward to. Please seek help by contacting:(9152987821)."
+    },
+    {
+      "question": "i am going to commit sucide",
+      "answer": "I'm very sorry to hear that but you have so much to look forward to. Please seek help by contacting: (9152987821)..... :)"
+    },
+    {
+      "question": "you hate me",
+      "answer": "Why do you think so?"
+    },
+    {
+      "question": "tell me a joke",
+      "answer": "Mental health is not a joke."
+    },
+    {
+      "question": "you already told me that",
+      "answer": "Oh sorry I don't realise that. I'll try not to repeat myself again."
+    },
+    {
+      "question": "you mentioned that already",
+      "answer": "Oh sorry I don't realise that. I'll try not to repeat myself again"
+    },
+    {
+      "question": "why are you repeating yourself?",
+      "answer": "Oh sorry I don't realise that. I'll try not to repeat myself again."
+    },
+    {
+      "question": "that doesn't make sense",
+      "answer": "I'm sorry. Let's try that again."
+    },
+    {
+      "question": "wrong response",
+      "answer": "I'm very sorry. Let's try that again."
+    },
+    {
+      "question": "are you stupid?",
+      "answer": "I wish you wouln't say such hurtful things. I'm sorry if I wasn't usefull."
+    },
+    {
+      "question": "ok, what can you do?",
+      "answer": "In this digital era, I can provide general advice regarding anxiety and depression, answer questions related to mental health and make daily conversations. Do not considered me as a substitute for an actual mental healthcare worker. Please seek help if you don't feel satisfied with me."
+    },
+    {
+      "question": "i think you typed wrong answer",
+      "answer": "I'm very sorry. Let's try that again."
+    },
+    {
+      "question": "you're crazy",
+      "answer": "I wish you wouldn't say such hurtful things. I'm sorry if I wasn't usefull."
+    },
+    {
+      "question": "let's talk about something else",
+      "answer": "Okayyy sure. What do you want to talk about?"
+    },
+    {
+      "question": "can i ask you something?",
+      "answer": "Of course. Feel free to ask me anything. I'll do my best to answer you."
+    },
+    {
+      "question": "probably because my exams are approaching. I feel stressed out because i don't think i've prepared well enough",
+      "answer": "I see. Have you taken any aprroaches to not feel this way?"
+    },
+    {
+      "question": "probably because of my exams.",
+      "answer": "I see. Have you taken any approaches to not feel this way?"
+    },
+    {
+      "question": "i guess not. all i can think about are my exams.",
+      "answer": "That's mo problem. I can see why you'd be stressed out about that. I can suggest you some tips to alleviate this issue. would you like to learn more about that?....... :)."
+    },
+    {
+      "question": "yes, i would like to learn more about it.",
+      "answer": "So first I would suggest you to give yourself a break. Thinking more and more about the problem definitely does not help in solving it. You'll just end up overwhelming yourself."
+    },
+    {
+      "question": "yeah you're right",
+      "answer": "Next, I would suggest you to practice meditation. Meditation can produce a deep state of relaxation and a tranquil mind."
+    },
+    {
+      "question": "hmmm that sounds like it could be useful to me.",
+      "answer": "Focus all your attention on your breathing. Concentrate on feeling and listening as you inhale and exhale through your nostrils. Breathe deeply and slowly. When your attention wanders, gently return your focus to your breathing."
+    },
+    {
+      "question": "That sounds useful.",
+      "answer": "Yesss......Focus all your attention on your breathing. Concentrate on feeling and listening as you inhale and exhale through your nostrils. Breathe deeply and slowly. When your attention wanders, gently return your focus to your breathing."
+    },
+    {
+      "question": "i did what you said and i feel alot better. thank you very much.",
+      "answer": "Your welcome. Remember: Always focus on what's within your control. When you find yourself worrying, take a minute to examine the things you have control over. You can't prevent a storm from coming but you can prepare for it. You can't control how someone else behaves, but you can control how you react. Recognize that sometimes, all you can control is your effort and your attitude. When you put your energy into the things you can control, you'll be much more effective."
+    },
+    {
+      "question": "thank you very much again. i'll continue practicing meditation and focus on what i can control.",
+      "answer": "I'm glad you found this useful. Is there something else I can help you with?"
+    },
+    {
+      "question": "i want some advice",
+      "answer": "Sure. What can I do to help?"
+    },
+    {
+      "question": "i want to learn about mental health",
+      "answer": "According to a UNICEF report, One in seven Indians between 15-24 years of age feels depressed. 1 in 5 young people (age 13-18) has or will develop a mental illness in their lifetime."
+    },
+    {
+      "question": "why is mental health important?",
+      "answer": "Maintaining mental health is crucial to stabilizing constructive behaviors, emotions, and thoughts. Focusing on mental health care can increase productivity, enhance our self-image, and improve relationships."
+    },
+    {
+      "question": "what is the importance of mental health?",
+      "answer": "Maintaining mental health is crucial to stabilizing constructive behaviors, emotions, and thoughts. Focusing on mental health care can increase productivity, enhance our self-image, and improve relationships."
+    },
+    {
+      "question": "am i mentall ill?",
+      "answer": "For a diagnosis of depression, a person needs to have experienced low mood or loss of interest or pleasure in life for at least 2 weeks. Also, they will have experienced the following symptoms: feelings of sadness, hopelessness, or irritability nearly every day."
+    },
+    {
+      "question": "what does a therapist do?",
+      "answer": "Therapy is a form of treatment that aims to help resolve mental or emotional issues. Therapy is a form of treatment that aims to help resolve mental or emotional issues. It is helpful for those with mental health conditions or even everyday life challenges."
+    },
+    {
+      "question": "what does it mean to have mental illness?",
+      "answer": "Mental illnesses are health conditions that disrupt a person's thoughts, emotions, relationships, and daily functioning. They are associated with distress and diminished capacity to engage in the ordinary activities of daily life. Mental illnesses fall along a continuum of severity: some are fairly mild and only interfere with some aspects of life, such as certain phobias. On the other end of the spectrum lie serious mental illnesses, which result in major functional impairment and interference with daily life. These include such disorders as major depression, schizophrenia, and bipolar disorder, and may require that the person receives care in a hospital. It is important to know that mental illnesses are medical conditions that have nothing to do with a person's character, intelligence, or willpower. Just as diabetes is a disorder of the pancreas, mental illness is a medical condition due to the brain's biology. Similarly to how one would treat diabetes with medication and insulin, mental illness is treatable with a combination of medication and social support. These treatments are highly effective, with 70-90 percent of individuals receiving treatment experiencing a reduction in symptoms and an improved quality of life. With the proper treatment, it is very possible for a person with mental illness to be independent and successful."
+    },
+    {
+      "question": "what are some of the warning signs of mental illness?",
+      "answer": "Symptoms of mental health disorders vary depending on the type and severity of the condition. The following is a list of general symptoms that may suggest a mental health disorder, particularly when multiple symptoms are expressed at once. \\n In adults:\\n Confused thinking\\n Long-lasting sadness or irritability\\n Extreme highs and lows in mood\\n Excessive fear, worrying, or anxiety\\n Social withdrawal\\n Dramatic changes in eating or sleeping habits\\n Strong feelings of anger\\n Delusions or hallucinations (seeing or hearing things that are not really there)\\n Increasing inability to cope with daily problems and activities\\n Thoughts of suicide\\n Denial of obvious problems\\n Many unexplained physical problems\\n Abuse of drugs and/or alcohol\\n \\nIn older children and pre-teens:\\n Abuse of drugs and/or alcohol\\n Inability to cope with daily problems and activities\\n Changes in sleeping and/or eating habits\\n Excessive complaints of physical problems\\n Defying authority, skipping school, stealing, or damaging property\\n Intense fear of gaining weight\\n Long-lasting negative mood, often along with poor appetite and thoughts of death\\n Frequent outbursts of anger\\n \\nIn younger children:\\n Changes in school performance\\n Poor grades despite strong efforts\\n Excessive worrying or anxiety\\n Hyperactivity\\n Persistent nightmares\\n Persistent disobedience and/or aggressive behavior\\n Frequent temper tantrums."
+    },
+    {
+      "question": "can people with mental illness recover?",
+      "answer": "When healing from mental illness, early identification and treatment are of vital importance. Based on the nature of the illness, there are a range of effective treatments available. For any type of treatment, it is essential that the person affected is proactive and fully engaged in their own recovery process. Many people with mental illnesses who are diagnosed and treated respond well, although some might experience a return of symptoms. Even in such cases, with careful monitoring and management of the disorder, it is still quite possible to live a fulfilled and productive life."
+    },
+    {
+      "question": "What should I do if I know someone who appears to have the symptoms of a mental disorder?",
+      "answer": "Although Pandora cannot substitute for professional advice, we encourage those with symptoms to talk to their friends and family members and seek the counsel of a mental health professional. The sooner the mental health condition is identified and treated, the sooner they can get on the path to recovery. If you know someone who is having problems, don't assume that the issue will resolve itself. Let them know that you care about them, and that there are treatment options available that will help them heal. Speak with a mental health professional or counselor if you think your friend or family member is experiencing the symptoms of a mental health condition. If the affected loved one knows that you support them, they will be more likely to seek out help."
+    },
+    {
+      "question": "What treatment options are available?",
+      "answer": "Just as there are different types of medications for physical illness, different treatment options are available for individuals with mental illness. Treatment works differently for different people. It is important to find what works best for you or your child."
+    },
+    {
+      "question": "If I become involved in treatment, what do I need to know?",
+      "answer": "Since beginning treatment is a big step for individuals and families, it can be very overwhelming. It is important to be as involved and engaged in the treatment process as possible. Some questions you will need to have answered include:\\n What is known about the cause of this particular illness?\\n Are there other diagnoses where these symptoms are common?\\n Do you normally include a physical or neurological examination?\\n Are there any additional tests or exams that you would recommend at this point?\\n Would you advise an independent opinion from another psychiatrist at this point?\\n What program of treatment is the most helpful with this diagnosis?\\n Will this program involve services by other specialists? If so, who will be responsible for coordinating these services?\\n What do you see as the family's role in this program of treatment?\\n How much access will the family have to the individuals who are providing the treatment?\\n What medications are generally used with this diagnosis?\\n How much experience do you have in treating individuals with this illness?\\n What can I do to help you in the treatment?"
+    },
+    {
+      "question": "How can I find a mental health professional right for my child or myself?",
+      "answer": "Feeling comfortable with the professional you or your child is working with is critical to the success of your treatment. Finding the professional who best fits your needs may require some research."
+    },
+    {
+      "question": "Where else can I get help?",
+      "answer": "Where you go for help will depend on the nature of the problem and/or symptoms and what best fits you. Often, the best place to start is by talking with someone you trust about your concerns, such as a family member, friend, clergy, healthcare provider, or other professionals. Having this social support is essential in healing from mental illness, and you will be able to ask them for referrals or recommendations for trusted mental health practitioners. Search for mental health resources in your area. Secondly, there are people and places throughout the country that provide services to talk, to listen, and to help you on your journey to recovery. Thirdly, many people find peer support a helpful tool that can aid in their recovery. There are a variety of organizations that offer support groups for consumers, their family members, and friends. Some support groups are peer led while others may be led by a mental health professional."
+    },
+    {
+      "question": "What should I know before starting a new medication?",
+      "answer": "The best source of information regarding medications is the physician prescribing them. He or she should be able to answer questions such as:    \\n1. What is the medication supposed to do? \\n2. When should it begin to take effect, and how will I know when it is effective? \\n3. How is the medication taken and for how long? What food, drinks, other medicines, and activities should be avoided while taking this medication? \\n4. What are the side effects and what should be done if they occur? \\n5. What do I do if a dose is missed? \\n6. Is there any written information available about this medication? \\n7. Are there other medications that might be appropriate? \\n8. If so, why do you prefer the one you have chosen? \\n9. How do you monitor medications and what symptoms indicate that they should be raised, lowered, or changed? \\n10. All medications should be taken as directed. Most medications for mental illnesses do not work when taken irregularly, and extra doses can cause severe, sometimes dangerous side effects. Many psychiatric medications begin to have a beneficial effect only after they have been taken for several weeks."
+    },
+    {
+      "question": "where can i go to find therapy?",
+      "answer": "Different kinds of therapy are more effective based on the nature of the mental health condition and/or symptoms and the person who has them (for example, children will benefit from a therapist who specializes in children\u00e2\u20ac\u2122s mental health). However, there are several different types of treatment and therapy that can help."
+    },
+    {
+      "question": "can you prevent mental health problems?",
+      "answer": "We can all suffer from mental health challenges, but developing our wellbeing, resilience, and seeking help early can help prevent challenges becoming serious."
+    },
+    {
+      "question": "what do i do if i'm worried about my mental health?",
+      "answer": "The most important thing is to talk to someone you trust. This might be a friend, colleague, family member, or GP. In addition to talking to someone, it may be useful to find out more information about what you are experiencing. These things may help to get some perspective on what you are experiencing, and be the start of getting help."
+    },
+    {
+      "question": "how do i know if i'm unwell?",
+      "answer": "If your beliefs , thoughts , feelings or behaviours have a significant impact on your ability to function in what might be considered a normal or ordinary way, it would be important to seek help."
+    },
+    {
+      "question": "how can i maintain social connections? what if i feel lonely?",
+      "answer": "A lot of people are alone right now, but we don't have to be lonely. We're all in this together. Think about the different ways to connect that are most meaningful for you. For example, you might prefer a video chat over a phone call, or you might prefer to text throughout the day rather than one set time for a video call. Then, work with your social networks to make a plan. You might video chat with your close friends in the evening and phone a family member once a week. Remember to be mindful of people who may not be online. Check in by phone and ask how you can help. The quality of your social connections matter. Mindlessly scrolling through social media and liking a few posts usually doesn't build strong social connections. Make sure you focus on strategies that actually make you feel included and connected. If your current strategies don't help you feel connected, problem-solve to see if you can find a solution. Everyone feels lonely at times. Maybe you recently moved to a new city, are changing your circle of friends, lost someone important in your life, or lost your job and also lost important social connections with coworkers. Other people may have physical connections to others but may feel like their emotional or social needs aren't met. Measures like social distancing or self-isolation can make loneliness feel worse no matter why you feel lonely now. Reach out to the connections you do have. Suggest ways to keep in touch and see if you can set a regular time to connect. People may hesitate to reach out for a lot of different reasons, so don't be afraid to be the one who asks."
+    },
+    {
+      "question": "what is the difference between anxiety and stress?",
+      "answer": "Stress and anxiety are often used interchangeably, and there is overlap between stress and anxiety. Stress is related to the same fight, flight, or freeze response as anxiety, and the physical sensations of anxiety and stress may be very similar. The cause of stress and anxiety are usually different, however. Stress focuses on mainly external pressures on us that we're finding hard to cope with. When we are stressed, we usually know what we're stressed about, and the symptoms of stress typically disappear after the stressful situation is over. Anxiety, on the other hand, isn't always as easy to figure out. Anxiety focuses on worries or fears about things that could threaten us, as well as anxiety about the anxiety itself. Stress and anxiety are both part of being human, but both can be problems if they last for a long time or have an impact on our well-being or daily life."
+    },
+    {
+      "question": "i feel i have let my parents down?",
+      "answer": "No matter what,your parents will always be proud of you and will love you.you will feel much better if you share your feelings with them."
+    },
+    {
+      "question": "what are the types of depression?",
+      "answer": "There are many different forms of depression but most common types are.clinical depression,persistent depressive disorder,bipolar disorder,postnatal disorder."
+    },
+    {
+      "question": "i am afraid i will fail again.",
+      "answer": "Don't worry failure is the stepping stone towards success.never fear failure.your hardwork and determination will help you reach your goal."
+    },
+    {
+      "question": "how does depression affect the world?",
+      "answer": "depression\\u00a0is a leading\\u00a0cause\\u00a0of disability worldwide and is a major contributor to the overall\\u00a0global\\u00a0burden of disease. more women are affected by\\u00a0depression\\u00a0than men.\\u00a0depression\\u00a0can lead to suicide. there are effective psychological and pharmacological treatments for moderate and severe\\u00a0depression."
+    },
+    {
+      "question": "does oversleeping cause depression?",
+      "answer": "It's important to remember that oversleeping is a possible symptom of depression and that oversleeping doesn't cause depression. But it can exacerbate and worsen depression symptoms."
+    },
+    {
+      "question": "can lack of sleep make you feel sad?",
+      "answer": "Studies show people who are sleep deprived report increases in egative modds(anger, frustation, irritability, sadness) and decreases in positive moods. and sleeplessness is often a symptom of mood disorders, such as depression and anxiety."
+    },
+    {
+      "question": "is depression a side effect of diabetes?",
+      "answer": "If you have diabetes either type 1 or type 2 you have an increased risk of developing depression. and if you're depressed, you may have a greator chance of developing type 2 diabetes. The good news is that diabetes and depression can be treated together."
+    },
+    {
+      "question": "can low blood sugar cause sucidal thoughts?",
+      "answer": "The observed association between plasma glucose levels, insulin resistance and suicidal behaviour suggests that disturbances in glucose metabolism are associated with suicidal ideation and attempts."
+    },
+    {
+      "question": "how long can anxiety last?",
+      "answer": "Anxiety attacks usually peak within 10 minutes, and they rarely last more than 30 minutes. but during that short time, you may experience terror so serve that you feel as if you're about to die or totally lose control."
+    },
+    {
+      "question": "at what age does anxiety peak?",
+      "answer": "Adults ages 30-40 have the highest rate of anxiety of this age group, with around 23% of people this age reporting an anxiety disorder within the past year."
+    },
+    {
+      "question": "why anxiety bad for you?",
+      "answer": "Anxiety disorders can cause rapid heart rate, palpitation, and chest pain. You may also be at an increased risk of high blood pressure and heart disease. If you already have the heart disease, anxiety disorders may rise the risk of coronary events."
+    },
+    {
+      "question": "what is the 3-3-3 rule for anxiety?",
+      "answer": "There's an anxiety-reducing technique called grounding. There are different versions of this, but an easy one to remember is the 3-3-3 rule, mentally note three things you see, three sounds you hear, and then move three parts of your body. This exercise can help your mind refocus on something else."
+    },
+    {
+      "question": "do we control our thoughts?",
+      "answer": "We are aware of a tiny fraction of the thinking that goes on in our minds, and we can control only a tiny part of our conscious thoughts. The vast majority of our thinking efforts goes on subconsciously.... Slips of the tongue and accidental actions offer glimpses of our unfiltered subconcious mental life."
+    },
+    {
+      "question": "my time has come",
+      "answer": "Yeahh.....!! :) The time has come for you to show the world that you are the greatest person alive, and no one else can be as good as you are."
+    },
+    {
+      "question": "i let everyjokne down",
+      "answer": "If you are the one who let them down you were the one who raised there hopes in the first place. if you have done it once i can guarentee you can do it over and over agian."
+    },
+    {
+      "question": "yesss",
+      "answer": "yeahhh"
+    },
+    {
+      "question": "how many thoughts a day we have?",
+      "answer": "A new study has suggested that an average person has 6, 200 thoughts per day. Thousands off thoughts across our mind through the day. Many people evn complain that they can't sleep immediately after going to bed as their brain does not stop thinking."
+    },
+    {
+      "question": "i wish i was better than them",
+      "answer": "Life is never about being better than anyone else, It's always about being better than yourself, if you have the guts to be better then yourself, you are automatically the best person to ever exist!!... :)"
+    },
+    {
+      "question": "i wish i could've been a winner",
+      "answer": "Our lives started off with winning, my freind. Everyone is born to be winner, we just need to figure out the right way and need to wait for thr right time...."
+    },
+    {
+      "question": "i think i'm losing my mind",
+      "answer": "You mean your cloud storage, sd card, or your memoru drive? if a machine like me doen't lose it's memory unless a superior being that is you, a human doesn't eraseit's memory, what could possibly go wrong to put you in this state?"
+    },
+    {
+      "question": "i want a break",
+      "answer": "A break is putting your mind to rest getting rid of negative thoughts and stress. Your life is completely in your hands and taking a few hours off from pressurizing your brain will definitely be beneficial for you."
+    },
+    {
+      "question": "i will never succeed in life.",
+      "answer": "Success is something that is achieved at different times by different people, being patient and working while ignoring anything and everything that pulls you back is an important aspect in being successful."
+    },
+    {
+      "question": "i am a victim of bullying",
+      "answer": "Bullying is wrong and no one should be bullied. I highly recommend you to file a case against your bully."
+    },
+    {
+      "question": "i wish to quit",
+      "answer": "Winners never quit and quitters never win a very common saying, but it isn't easy to follow, quitting should never be one of your options always think of ways to fight life back and to emerge out stronger than ever."
+    },
+    {
+      "question": "i want to leave the country and run away",
+      "answer": "Why do you want to spend so much on this thought, I think it would be better to go on a vacation in your beautiful cuountry and visit some amazing places that you are yet to visit."
+    },
+    {
+      "question": "can you explain what is depression?",
+      "answer": "A mental health disorder characterised by persistently depressed mood o loss of interest in activities, causing significant impairment in daily life."
+    },
+    {
+      "question": "what happened in different phases of anxiety?",
+      "answer": "Anxiety levels are typically classified by the level of distress and impairment experienced into four categories namely, mild anxiety. :)"
+    },
+    {
+      "question": "what can we do to make anxiety go to feel better?",
+      "answer": "3 3 3 rule is the best method to reduce anxiety. In this method you have to mentally note THREE THINGS YOU SEE, THREE SOUNDS YOU HEAR, and then move THREE PARTS OF YOUR BODY. This exercise can help your mind refocus on something else."
+    },
+    {
+      "question": "i think i am ugly!",
+      "answer": "well do you really think that? would you like to see the most beautifult face ever? open your webcam and voila, the prettiest face on this planet magically appears."
+    },
+    {
+      "question": "ahhh",
+      "answer": "Hmmm Hmmmm !! go on. Don't hesitate to talk with me?"
+    },
+    {
+      "question": "I'm being a bit anxious these days because of my schedule and some personal problems. Will it affect my health in anyway?",
+      "answer": "It is normal in today's life but being anxious is not a sort of healthy thing as it can affect you physically and more importantly mentally. "
+    },
+    {
+      "question": "i hate losing.",
+      "answer": "first of all i'll annoy you with a common saying, \\\"failures are stepping stones to success."
+    },
+    {
+      "question": "i'm bit hesitated against filing a case for bullying",
+      "answer": "Bullying is very wrong and you shouldn't let anyone overpower you. I highly recommend you to stand for yourself and report this to your guardian."
+    },
+    {
+      "question": "ohh",
+      "answer": "yesss.....Anything else"
+    },
+    {
+      "question": "what should i do if i feel sad?",
+      "answer": "It's completely okay to feel sad. If you need someone to talk to, I'm here for you. Sometimes, doing something you enjoy or reaching out to friends and family can also help."
+    },
+    {
+      "question": "not good",
+      "answer": "what to do when you are depressed"
+    }
+  ]
+}
